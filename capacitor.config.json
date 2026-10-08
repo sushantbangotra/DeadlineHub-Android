@@ -1,0 +1,14 @@
+{
+  "appId": "com.deadlinehub.mobile",
+  "appName": "DeadlineHub",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#6c8cff",
+      "smallIcon": "ic_notification"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DeadlineHub</string>
+    <string name="title_activity_main">DeadlineHub</string>
+    <string name="package_name">com.deadlinehub.mobile</string>
+    <string name="custom_url_scheme">com.deadlinehub.mobile</string>
+</resources>
